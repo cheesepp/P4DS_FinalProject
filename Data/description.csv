@@ -1,0 +1,28 @@
+﻿Title,Meaning
+Timestamp,Thời gian nộp khảo sát
+Age,Tuổi
+Gender,Giới tính
+Country,Quốc gia sinh sống
+state,Tên tiểu bang sinh sống
+self_employed,Bạn có tự kinh doanh không?
+family_history,Gia đình có tiền sử bệnh tâm thần không?
+treatment,Bạn đã tìm cách điều trị tình trạng sức khỏe tâm thần chưa?
+work_interfere,"Nếu bạn có vấn đề về sức khỏe tâm thần, bạn có cảm thấy nó cản trở công việc của mình không?"
+no_employees,Công ty hoặc tổ chức của bạn có bao nhiêu nhân viên?
+remote_work,Bạn có làm việc từ xa (bên ngoài văn phòng) ít nhất 50% thời gian không?
+tech_company,Chủ lao động của bạn chủ yếu là một công ty/tổ chức công nghệ phải không?
+benefits,Chủ lao động của bạn có cung cấp các phúc lợi về sức khỏe tâm thần không?
+care_options,Bạn có biết các lựa chọn chăm sóc sức khỏe tâm thần mà chủ lao động của bạn cung cấp không?
+wellness_program,Chủ lao động của bạn đã bao giờ thảo luận về sức khỏe tâm thần như một phần của chương trình chăm sóc sức khỏe cho nhân viên chưa?
+seek_help,Chủ lao động của bạn có cung cấp các nguồn lực để tìm hiểu thêm về các vấn đề sức khỏe tâm thần và cách tìm kiếm sự giúp đỡ không?
+anonymity,Danh tính của bạn có được bảo vệ nếu bạn chọn tận dụng các nguồn lực điều trị sức khỏe tâm thần hoặc lạm dụng thuốc không?
+leave,Bạn có thể xin nghỉ phép vì tình trạng sức khỏe tâm thần dễ dàng không?
+mental_health_consequence,Bạn có nghĩ rằng việc thảo luận về vấn đề sức khỏe tâm thần với chủ lao động của bạn sẽ gây ra hậu quả tiêu cực không?
+phys_health_consequence,Bạn có nghĩ rằng việc thảo luận về vấn đề sức khỏe thể chất với chủ lao động của bạn sẽ gây ra hậu quả tiêu cực không?
+coworkers,Bạn có sẵn lòng thảo luận vấn đề sức khỏe tâm thần với đồng nghiệp của mình không?
+supervisor,Bạn có sẵn lòng thảo luận vấn đề sức khỏe tâm thần với (những) người giám sát trực tiếp của bạn không?
+mental_health_interview,Bạn có nêu vấn đề sức khỏe tâm thần với nhà tuyển dụng tiềm năng trong một cuộc phỏng vấn không?
+phys_health_interview,Bạn có nêu vấn đề sức khỏe thể chất với nhà tuyển dụng tiềm năng trong một cuộc phỏng vấn không?
+mental_vs_physical,Bạn có cảm thấy rằng chủ lao động của bạn coi trọng sức khỏe tinh thần cũng như sức khỏe thể chất không?
+obs_consequence,Bạn đã từng nghe hoặc quan sát thấy những hậu quả tiêu cực đối với đồng nghiệp mắc bệnh tâm thần ở nơi làm việc của bạn chưa?
+comments,Bất kỳ ghi chú hoặc ý kiến ​​bổ sung.
